@@ -6,10 +6,10 @@
 Welcome to Artificial Intellegence for Geophysics's documentation!
 ===================================================================
 
-| *Course website*: https://uvadlc.github.io/
+| *Course website*: 
 | *Course edition*: AI4G-Spring 2023, Being kept up to date
-| *Repository*: https://github.com/phlippe/uvadlc_notebooks
-| *Recordings*: `YouTube Playlist <https://www.youtube.com/playlist?list=PLdlPlO1QhMiAkedeu0aJixfkknLRxk1nA>`_
+| *Repository*: https://github.com/TethysSun/ai4geophysics
+| *Recordings*: 
 | *Author*: Jian Sun
 
 .. note::
@@ -21,7 +21,7 @@ If you find this book helpful and would like to cite them, you can use the follo
       title        = {{Artificial Intelligence for Geophysics}},
       author       = {Jian Sun},
       year         = 2023,
-      howpublished = {\url{https://tethyssun.readthedocs.io/en/latest/}}
+      howpublished = {\url{https://https://ai4geophysics.readthedocs.io/en/latest/}}
    }
 
 .. toctree::
@@ -30,6 +30,8 @@ If you find this book helpful and would like to cite them, you can use the follo
 
    preface/preface
    chapter1_intro/index
+   chapter2_dl/index
+
 
 
 Indices and tables

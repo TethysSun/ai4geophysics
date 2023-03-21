@@ -41,7 +41,7 @@ extensions = [
             #   'sphinx.ext.ifconfig', 
               'nbsphinx',
               'recommonmark',
-              'sphinx_markdown_tables',
+              # 'sphinx_markdown_tables',
               'sphinx_search.extension',
 ]
 numfig = True
