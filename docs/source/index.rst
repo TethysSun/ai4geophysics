@@ -28,7 +28,7 @@ If you find this book helpful and would like to cite them, you can use the follo
    :caption: Contents:
    :maxdepth: 2
 
-   preface/index
+   preface/preface
    chapter1_intro/index
    chapter2_dl/index
 
