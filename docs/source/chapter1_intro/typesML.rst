@@ -74,16 +74,51 @@ Let's take breast cancer detection as an example of classification problem. Assu
 1.2.2 Unsupervised Learning
 ----------------------------------------
 
+Compared to supervised learning, which learns from data labeled with the "correct answer", unsupervised learning processes data that isn't associated with any output labels. In other words, unsupervised learning deals with the analysis of data without explicit supervision or guidance from labeled examples. Unlike supervised learning, where the goal is to learn a mapping between inputs and outputs based on labeled training data, unsupervised learning is concerned with finding patterns, structures, and relationships within unlabeled data.
 
+Unsupervised learning algorithms are often used in exploratory data analysis, data pre-processing, and feature extraction. By identifying underlying patterns and structures within the data, unsupervised learning algorithms can help to uncover insights, discover new relationships, and enable more efficient processing of data.
+
+There are several classic types of unsupervised learning algorithms, including:
+
+  **Clustering:** This type of algorithm involves partitioning data into groups or clusters based on their similarity or distance to one another. Common clustering algorithms include k-means, hierarchical clustering, and density-based clustering.
+
+  **Dimensionality reduction:** These algorithms aim to reduce the complexity of high-dimensional data by projecting it onto a lower-dimensional space while preserving as much of the original information as possible. Principal Component Analysis (PCA) and t-distributed Stochastic Neighbor Embedding (t-SNE) are popular examples of dimensionality reduction algorithms.
+
+  **Association rule mining:** These algorithms identify relationships between variables within a dataset, such as which items are frequently purchased together in a supermarket. The most well-known algorithm in this category is Apriori.
+
+Each type of unsupervised learning algorithm has its strengths and limitations, and the choice of algorithm depends on the nature of the data and the specific problem at hand.
 
 1.2.3 Semi-supervised Learning
 ----------------------------------------
 
+Semi-supervised learning is also a subfield of machine learning that aims to leverage both labeled and unlabeled data to improve the performance of predictive models. Unlike supervised learning, where the focus is on learning from labeled data, and unsupervised learning, which deals with analyzing unlabeled data, semi-supervised learning combines the two approaches by using a small amount of labeled data to guide the learning process while also leveraging the large amounts of unlabeled data available.
+
+The key idea behind semi-supervised learning is that by leveraging the relationships and patterns in the unlabeled data, a model can better understand the underlying structure of the data, leading to more accurate and robust predictions.
+
+There are several classic types of semi-supervised learning algorithms, including:
+
+  **Self-Training:** This algorithm involves using a small amount of labeled data to train an initial model, which is then used to make predictions on the unlabeled data. The predictions are then used to augment the labeled dataset, and the model is retrained on the larger dataset. The process is repeated iteratively, with the model becoming more accurate as more unlabeled data is used to improve the predictions.
+
+  **Co-Training:** In this algorithm, two different models are trained on different subsets of the data, with each model learning from both the labeled and unlabeled data. The two models then communicate with each other, with each model using the predictions of the other to improve its own predictions.
+
+  **Graph-Based Methods:** These algorithms use a graph to represent the relationships between the data points, with the labeled data points serving as anchors to guide the learning process. The model then propagates labels through the graph to the unlabeled data points, with the final predictions being based on the propagated labels.
+
+Semi-supervised learning is a powerful tool for improving the performance of machine learning models, especially when labeled data is scarce or expensive to obtain.
 
 1.2.4 Reinforcement Learning
 ----------------------------------------
 
+Reinforcement learning is a branch of machine learning that focuses on how an agent can learn to make decisions in an environment by interacting with it and receiving feedback in the form of rewards or punishments. The goal of RL is to find an optimal policy that maximizes the cumulative reward over time.
 
+There are three classic types of reinforcement learning algorithms:
+
+  **Value-based:** In this type of algorithm, the agent learns to estimate the value of each state or state-action pair, based on the expected cumulative reward. Examples of value-based algorithms include Q-learning and SARSA.
+
+  **Policy-based:** These algorithms directly learn the optimal policy that maps each state to an action. Examples of policy-based algorithms include REINFORCE and actor-critic.
+
+  **Model-based:** These algorithms build a model of the environment, including transition probabilities and rewards, and use it to plan an optimal policy. Examples of model-based algorithms include Dyna-Q and Monte Carlo Tree Search.
+
+Reinforcement learning has been successfully applied to a wide range of applications, including game playing, robotics, and autonomous vehicles.
 
 
 
