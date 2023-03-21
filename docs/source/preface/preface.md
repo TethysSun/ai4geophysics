@@ -1,4 +1,4 @@
-# Preface
+## Preface
 
 The field of geophysics has always been at the forefront of innovation, exploring new ways to better understand the complex systems that make up our planet. In recent years, artificial intelligence (AI) has emerged as a powerful tool for geophysicists, providing new avenues for data analysis and interpretation, and enabling more accurate and efficient predictions. This book is designed to provide an in-depth introduction to AI and a comprehensive overview of AI applications in the field of geophysics, and to offer insights into how these developments are driving new discoveries and insights into the structure of the Earth.
 
@@ -16,9 +16,3 @@ Finally, Chapter 5 discusses the challenges and limitations of using AI in geoph
 
 Overall, this book provides a comprehensive introduction to the use of AI in geophysics. Whether you are a researcher, practitioner, or student in the field of geophysics, this book will provide you with the knowledge and skills you need to apply AI techniques to your own research and work.
 
-## Preliminaries
-Although this book is designed for people with zero foundation in machine learning, in order to understand all contents of this book, you will ideally have a basic knowledge of the following, including (i) the basics of linear algebra, (ii) skills of programming in Python, (iii) relevant geophysical knowledge, etc.
-
-## About This Book
-
-This book contains the foundamental basics of machine learning algorithms, especially deep learning, and associated runnable codes using PyTorch. Therefore, in this book, you can learn about the state-of-the-art and also pratice implementing machine learning algorithms in the field of Geophysics. Hopefully, you can start your own AI4Geophysics projects after learning this book.

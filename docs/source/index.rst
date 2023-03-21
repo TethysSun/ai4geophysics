@@ -25,18 +25,16 @@ If you find this book helpful and would like to cite them, you can use the follo
    }
 
 .. toctree::
+   :caption: Contents:
    :maxdepth: 2
-   :caption: Guides:
 
-   preface/preface
+   preface/index
    chapter1_intro/index
    chapter2_dl/index
 
+.. toctree::
+   :caption: Tutorials:
+   :maxdepth: 2
 
+   chapter2_dl/index
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

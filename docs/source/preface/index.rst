@@ -1,12 +1,11 @@
 
-Chapter 2: Deep Learning Basics
+Preface
 ===================================================================
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   fcn
-   cnn
-   rnn
-   classics
+   preface
+   preliminary
+   aboutthebook
 
