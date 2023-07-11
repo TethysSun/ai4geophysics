@@ -1,5 +1,5 @@
 
-Chapter 2: Deep Learning Basics
+Chapter 4: Deep Learning Basics
 ===================================================================
 
 This chapter covers the concepts of the following:
@@ -33,14 +33,9 @@ Overall, a chapter on deep learning basics would provide an overview of the fund
    :maxdepth: 2
    :caption: Contents:
 
-   introDL
-   nn
-   backprop
-   activation
-   lossfunction
-   optimization
-   regularization
-   transferlearning
-   application
-   commonframe
+   1_nn
+   2_cnn
+   3_rnn
+   4_train
+   
    

@@ -18,7 +18,7 @@ Welcome to Artificial Intellegence for Geophysics's documentation!
 If you find this book helpful and would like to cite them, you can use the following bibtex::
 
    @misc{sun2023ai4geophysics,
-      title        = {{Artificial Intelligence for Geophysics}},
+      title        = {{Artificial Intelligence in Geophysics: Advancements, Applications, and Potentials}},
       author       = {Jian Sun},
       year         = 2023,
       howpublished = {\url{https://https://ai4geophysics.readthedocs.io/en/latest/}}
@@ -29,8 +29,16 @@ If you find this book helpful and would like to cite them, you can use the follo
    :maxdepth: 2
 
    preface/preface
-   chapter1_intro/index
-   chapter2_dl/index
+   chapter1_introduction/index
+   chapter2_geophysics/index
+   chapter3_mlIntro/index
+   chapter4_dlBasics/index
+   chapter5_ai4Exploration/index
+   chapter6_ai4Integration/index
+   chapter7_ai4Seismology/index
+   chapter8_casesChaApp/index
+   chapter9_futureTrends/index
+
 
 .. toctree::
    :caption: Tutorials:

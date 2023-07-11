@@ -1,14 +1,14 @@
 
-Chapter 1: Introduction to Machine Learning 
+Chapter 1: Introduction to AI in Geophysics
 ===================================================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   overview
-   typesML
-   classicML
-   challengesML
+   1_why_ai   
+   2_foundations_ai
+   3_data
+   
 
    
