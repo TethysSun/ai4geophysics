@@ -1,4 +1,4 @@
-3.3 Unsuperv4.3 Recurrent Neural Networks for Temporal Data Analysis 
+4.3 Recurrent Neural Networks for Temporal Data Analysis 
 ================================================================
 
 4.3.1 Introduction to Recurrent Neural Networks (RNN) 
