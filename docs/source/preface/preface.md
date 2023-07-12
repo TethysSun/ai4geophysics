@@ -1,20 +1,30 @@
 # Preface
 
-The field of geophysics has always been at the forefront of innovation, exploring new ways to better understand the complex systems that make up our planet. In recent years, artificial intelligence (AI) has emerged as a powerful tool for geophysicists, providing new avenues for data analysis and interpretation, and enabling more accurate and efficient predictions. This book is designed to provide an in-depth introduction to AI and a comprehensive overview of AI applications in the field of geophysics, and to offer insights into how these developments are driving new discoveries and insights into the structure of the Earth.
+The field of geophysics has always been at the forefront of innovation, exploring new ways to better understand the complex systems that make up our planet. Traditional geophysical methods have provided valuable insights, but they often face limitations and challenges when it comes to handling complex data, extracting meaningful patterns, and making accurate predictions. In recent years, artificial intelligence (AI) has emerged as a powerful tool for geophysicists, providing new avenues for data analysis and interpretation, and enabling more accurate and efficient predictions. In this book, we embark on an exciting journey at the intersection of artificial intelligence (AI) and geophysics, exploring the transformative power of AI techniques in advancing our understanding and exploration of the Earth. 
 
-The book is divided into five chapters, each covering a different aspect of AI in geophysics.
+This book is designed to provide an in-depth introduction to AI and a comprehensive overview of AI applications in the field of geophysics, and to offer insights into how these developments are driving new discoveries and insights into the structure of the Earth. Our aim with this book is to provide a comprehensive introduction and practical guide to AI in geophysics, covering a wide range of topics from fundamental principles to cutting-edge applications. By combining the expertise of AI and geophysics, we aim to bridge the gap and enable geophysicists to harness the power of AI in their work.
 
-Chapter 1 provides an introduction to machine learning, one of the most commonly used AI techniques in geophysics. The chapter covers the basics of supervised and unsupervised learning, as well as other common machine learning algorithms.
+We begin by laying the foundation in Chapter 1, where we explore the motivation and need for AI integration in geophysics. We discuss the limitations of traditional methods and highlight the potential of AI to address these challenges, revolutionizing the field of geophysical exploration.
 
-Chapter 2 focuses on the basics of deep learning, a subset of machine learning that is particularly well-suited to analyzing large, complex datasets. The chapter covers topics such as neural networks, convolutional neural networks, and recurrent neural networks.
+In Chapters 2 and 3, we delve into the fundamentals of geophysics and machine learning, respectively. We cover seismic methods, electromagnetic methods, gravity and magnetic methods, as well as geophysical inversion techniques. We then provide an overview of machine learning techniques, including supervised and unsupervised learning algorithms, and discuss model evaluation and selection.
 
-Chapter 3 explores the applications of AI in geophysical interpretation. The chapter covers topics such as seismic imaging, electromagnetic surveys, and gravity and magnetic surveys. The chapter also discusses how AI can be used to identify patterns and relationships in geophysical data that are not immediately apparent to the human eye.
+Chapter 4 takes us into the realm of deep learning, where we explore neural networks, convolutional neural networks, recurrent neural networks, and training and optimization techniques. We provide practical insights and examples to aid readers in comprehending the application of deep learning specifically to geophysical data.
 
-Chapter 4 focuses on the applications of AI in geophysical data processing. The chapter covers topics such as data preprocessing, feature extraction, and data classification. The chapter also discusses how AI can be used to automate many of the time-consuming and labor-intensive tasks involved in geophysical data processing.
+The heart of the book lies in Chapters 5, 6, and 7, where we dive into AI applications in geophysical exploration, geophysical data integration, and seismology, respectively. We explore topics such as seismic interpretation and reservoir characterization, AI-based spatial and temporal data integration, and seismic analysis using AI techniques. Real-world case studies and practical examples are included to showcase the effectiveness and potential of AI in these domains.
 
-Finally, Chapter 5 discusses the challenges and limitations of using AI in geophysics. The chapter covers topics such as data quality, interpretability, and ethical considerations. The chapter also discusses some of the future directions for AI in geophysics and the potential impact of AI on the field.
+In Chapter 8, we present a collection of case studies, challenges, and practical applications of AI in geophysical exploration. We share success stories, lessons learned, and discuss the challenges faced along with potential solutions. Furthermore, we highlight the importance of data limitations, interpretability of AI models, and ethical considerations associated with AI in geophysics.
 
-Overall, this book provides a comprehensive introduction to the use of AI in geophysics. Whether you are a researcher, practitioner, or student in the field of geophysics, this book will provide you with the knowledge and skills you need to apply AI techniques to your own research and work.
+Looking towards the future, Chapter 9 explores emerging trends and future directions in AI and geophysics. We discuss AI's role in Earth system modeling, collaboration and interdisciplinary perspectives, industry applications, and emphasize the importance of continued research and development.
+
+It is our hope that this book will serve as a valuable resource for geophysicists who are interested in incorporating AI techniques into their work. We aim to provide both a comprehensive understanding of AI principles and practical guidance on its implementation in geophysical exploration. Through the exploration of advancements, applications, and potentials, we hope to inspire and empower geophysicists to leverage the power of AI in advancing their research and contributing to the broader field of geophysics.
+
+We would like to express our gratitude to the contributors and researchers in the field of AI and geophysics whose work has paved the way for this book. We hope that this collaborative effort will contribute to the ongoing progress in the intersection of AI and geophysics.
+
+Let us embark on this fascinating journey together as we explore the realm of AI in geophysics, uncovering new possibilities, and unlocking the potentials of our Earth.
+
+[Jian Sun]
+[OUC]
+[2023]
 
 ## Preliminaries
 
